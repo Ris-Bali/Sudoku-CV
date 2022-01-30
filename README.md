@@ -2,6 +2,6 @@
 - [x] Code for Sudoku
 - [x] Image processing
 - [ ] Extraction
-- [ ] Training a Resnet on MNIST .
+- [x] Training a CNN on MNIST .
 - [ ] Putting it together
 
